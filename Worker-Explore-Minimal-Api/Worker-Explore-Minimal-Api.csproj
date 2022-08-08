@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Explore_Minimal_Api</RootNamespace>
+    <RootNamespace>Worker_Explore_Minimal_Api</RootNamespace>
   </PropertyGroup>
 
 </Project>
